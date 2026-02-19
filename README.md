@@ -7,8 +7,8 @@ About Me
 - Currently learning Android and backend development
 
 Tech Stack
-- Languages: Java, Kotlin, Python, C++
-- Tools: Git, Android Studio, VS Code
+- Languages: Python, C++
+- Tools:  VS Code
 - Databases: MySQL, MongoDB
 
 Projects
@@ -17,5 +17,5 @@ Projects
 - File Management System
 
 Contact
-- LinkedIn: (your link)
-- Email: your@email.com
+- LinkedIn: www.linkedin.com/in/yashmore2006
+- Email: yashmore845@email.com
