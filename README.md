@@ -14,8 +14,7 @@ Tech Stack
 
 Projects
 - Laptop Price  Tracker
-- Weather App
-- File Management System
+- Smart Traffic flow
 
 Contact
 - LinkedIn: www.linkedin.com/in/yashmore2006
