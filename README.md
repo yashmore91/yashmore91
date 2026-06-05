@@ -1,9 +1,10 @@
 Hi, I'm Yash More 👋
-B.Tech CSE Student | Android Developer
+B.Tech CSE Student | Android Developer | Data Analyst
 
 About Me
 - Passionate about mobile and web development
 - Interested in hackathons and real-world projects
+- Gaining Knowlwdge about Data Analysis and Data Science
 - Currently learning Android and backend development
 
 Tech Stack
@@ -12,7 +13,7 @@ Tech Stack
 - Databases: MySQL, MongoDB
 
 Projects
-- Expense Tracker App
+- Laptop Price  Tracker
 - Weather App
 - File Management System
 
